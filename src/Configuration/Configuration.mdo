@@ -36,6 +36,6 @@
   </languages>
   <catalogs>Catalog.Профессии</catalogs>
   <documents>Document.Документ</documents>
-  <documents>Document.Продажа</documents>
+  <documents>Document.Продажа1</documents>
   <informationRegisters>InformationRegister.РегистрСведений</informationRegisters>
 </mdclass:Configuration>
