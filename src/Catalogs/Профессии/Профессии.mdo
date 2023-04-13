@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="57fe4bd6-3783-4bed-b1c6-4a68c5d79f61">
+  <producedTypes>
+    <objectType typeId="ddb5decb-bbf9-4cd1-bfa9-b948d4a59ddf" valueTypeId="9d033c93-b4b0-4258-984e-455be7f5d4f5"/>
+    <refType typeId="98837437-7697-4d49-87ef-c67f00fdc895" valueTypeId="7658421f-41f1-4c57-ba54-00878bf51354"/>
+    <selectionType typeId="611e6b76-feb9-4c4e-8bc7-329af45c99f5" valueTypeId="e8e620ee-dbdd-4d87-b576-f0786034bcb2"/>
+    <listType typeId="6c223400-2aa9-4279-9d7f-e7be16d5b1d7" valueTypeId="b4245f34-250b-4c15-bfb9-c67cfcaac4cc"/>
+    <managerType typeId="5faf9e82-4c68-4dbd-8962-00baf473e9bb" valueTypeId="b34e3373-f2fa-4d3d-92bf-a00ca7e30371"/>
+  </producedTypes>
+  <name>Профессии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Профессии</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Профессии.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Профессии.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5981c80b-9a42-4478-8db7-dde01dabb620">
+  <producedTypes>
+    <selectionType typeId="ce29cab4-85ef-402d-9e24-65e496d059b5" valueTypeId="a05fefc6-fa91-4b55-9748-e1c5eea02227"/>
+    <listType typeId="a831c6bd-e764-45a0-8d62-cc5f74c7771c" valueTypeId="19623232-b4c8-483e-a223-1e87ff52c61c"/>
+    <managerType typeId="8f8919fb-ab01-47c2-a30c-0b3da35beadc" valueTypeId="e4abe5c7-e94e-4e13-a1e4-f1963c067a9b"/>
+    <recordSetType typeId="37ec6859-a196-49ec-ad49-994a7f25dd36" valueTypeId="8ac8594a-6e0d-4eeb-9e81-2ae026726adb"/>
+    <recordKeyType typeId="2d31c33b-893e-4ad5-972c-24f1a1940d52" valueTypeId="fc775997-74c5-460a-b96b-56a66d246ebe"/>
+    <recordType typeId="cc988e95-51c9-49b4-8489-64a2de713c6b" valueTypeId="4d005033-bcc8-4f7f-aab1-a4cad5c7b6d8"/>
+    <recordManagerType typeId="45e79833-d274-463c-865d-2f3b0f2dc065" valueTypeId="f83e2305-f315-43a9-a6ea-189558c3b572"/>
+  </producedTypes>
+  <name>РегистрСведений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр сведений</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <dimensions uuid="35eb6cac-af09-4c09-9a4a-1057755d8381">
+    <name>Организация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Организация</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

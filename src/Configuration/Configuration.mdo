@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="86780854-35fe-437c-a5aa-81e792cbf9ec">
+  <name>Конфигурация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигурация</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="3721663e-8974-4cda-8c72-f51984c0c787"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="5b5b70ae-077f-48b0-8f56-58e7cd721061"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="2522d4dd-58fd-46b6-a378-b6ad975aadd5"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="8ad446d6-8dba-4622-85d7-24bc7cf2376f"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f3ba736b-7cec-4d7e-87b6-80957f57b12e"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="fe487dac-7df4-4e5b-9a86-a2177d718518"/>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="95e342e4-d0a9-4b82-a1f6-47829bdaa9b0">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Профессии</catalogs>
+  <documents>Document.Документ</documents>
+  <informationRegisters>InformationRegister.РегистрСведений</informationRegisters>
+</mdclass:Configuration>
