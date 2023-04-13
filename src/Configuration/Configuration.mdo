@@ -35,6 +35,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Профессии</catalogs>
+  <catalogs>Catalog.Справочник</catalogs>
   <documents>Document.Документ</documents>
   <documents>Document.Продажа3</documents>
   <informationRegisters>InformationRegister.РегистрСведений</informationRegisters>
